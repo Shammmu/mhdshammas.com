@@ -67,6 +67,7 @@ ul
 .main-content
 {
     padding-left: 270px;
+    margin-left: 220px;
 }
 .padd-15
 {
@@ -151,7 +152,7 @@ ul
 }
 .aside                                                   
 {
-    width: 270px;
+    width: 200px;
     background: var(--bg-black-100);
     position: fixed;
     left: 0;
@@ -286,9 +287,9 @@ ul
 }
 .home .home-info
 {
-    flex: 0 0 60%;
-    max-width: 60%;
-    padding-left: 73px;
+    flex: 1;
+    max-width: 100%;
+    
 }
 h3.hello
 {
